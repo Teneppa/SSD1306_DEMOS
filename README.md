@@ -17,3 +17,7 @@ Some simple programs for trying out the SSD1306 display.
 | D11  | OLED D1/MOSI |
 | 5V | VCC |
 | GND | GND |
+
+And here's the YouTube video about this project:
+
+[![Hello there :3](https://img.youtube.com/vi/r6zfl0ZLmo0/0.jpg)](https://www.youtube.com/watch?v=r6zfl0ZLmo0)
